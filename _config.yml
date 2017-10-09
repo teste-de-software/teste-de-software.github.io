@@ -1,8 +1,9 @@
-# theme: jekyll-theme-minimal
-theme: jekyll-swiss
-theme_color: white
-#
+theme: jekyll-theme-minimal
+
 title: Teste de software
 description: Página da disciplina Teste de Software
 show_downloads: false
 lang: pt-BR
+url: "https://teste-de-software.github.io"
+github_repo: teste-de-software.github.io
+github_username: leonardo-minora

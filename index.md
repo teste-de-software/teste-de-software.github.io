@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # Conteúdo da disciplina
 
 ## Teórico
