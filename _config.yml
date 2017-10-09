@@ -10,6 +10,14 @@ github_username: leonardo-minora
 
 contents:
   - title: Conceitos básicos
-    url: "/"
-  - title: "TDD"
+    url: "basics"
+  - title: "Níveis"
+    url: "level"
+  - title: "Métodos"
+    url: "methods"
+  - title: "Tipos"
+    url: "types"
+  - title: "Artefatos"
+    url: "artifacts"
+  - title: "Desenvolvimento orientado a testes"
     url: "tdd"

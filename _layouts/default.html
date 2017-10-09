@@ -19,11 +19,11 @@
       <p>{{ site.description | default: site.github.project_tagline }}</p>
 
       {% if site.contents %}
-        <ul>
+        <p>
           {% for item in site.contents %}
-            <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+            <a href="{{ item.url }}">{{ item.title }}</a><br />
           {% endfor %}
-        </ul>
+        </p>
       {% endif %}
 
     </header>
