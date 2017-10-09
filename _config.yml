@@ -7,3 +7,9 @@ lang: pt-BR
 url: "https://teste-de-software.github.io"
 github_repo: teste-de-software.github.io
 github_username: leonardo-minora
+
+contents:
+  - title: Conceitos básicos
+    url: "/"
+  - title: "TDD"
+    url: "tdd"
