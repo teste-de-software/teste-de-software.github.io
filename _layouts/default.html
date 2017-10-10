@@ -18,9 +18,9 @@
       <h1>{{ site.title | default: site.github.repository_name }}</h1>
       <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-      {% if site.contents %}
+      {% if site.data.conteudo %}
         <p>
-          {% for item in site.contents %}
+          {% for item in site.data.conteudo %}
             <a href="{{ item.url }}">{{ item.title }}</a><br />
           {% endfor %}
         </p>
