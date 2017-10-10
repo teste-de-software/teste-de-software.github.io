@@ -1,5 +1,4 @@
-{
-  "conteudo": [
+[
     {
       "title": "Conceitos básicos",
       "url": "basics"},
@@ -23,5 +22,4 @@
       "title": "Desenvolvimento orientado a testes",
       "url": "tdd"
     }
-  ]
-}
+]
